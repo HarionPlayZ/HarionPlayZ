@@ -181,7 +181,7 @@ PostPunk_urls = {
     },
     {
         name = "Улица Восток - Кот",
-        url_music = "https://data.gybka.com/listen/177485984/VXdVWTR3b1hyRStIalJHSmNQOEVPV0JINE1sa2YvMm1NeTFyWEgzQ1Myb1hyMWN5Z2E2NlZBeUpYVWkvMElwbkF0dkxzOHVWTEliV2l5YlJQKzFEUlNzeVpac1BKdlZXa21WbnFmdGlGMldKS2tVdlF6SFZxUVNFaDcvNjVvZmY/Ulica_Vostok_-_YA_zhivu_po_post_panku_(Gybka.com).mp3",
+        url_music = "https://data.gybka.com/listen/177640143/VXdVWTR3b1hyRStIalJHSmNQOEVPV0JINE1sa2YvMm1NeTFyWEgzQ1MycmNzT0x5RzZPV0ovYmdTR2tmajVDK3dBY21EZThMTXJuUENBR0c2Mm1YWTJha1d3bXpNcm96bFB5K1NsU3R4MEpJM0Q3alo0enBpMlowRk5ISnI2bWY/Ulica_Vostok_-_Kot_(Gybka.com).mp3",
         url_img = "https://avatars.yandex.net/get-music-content/2411511/a1344197.a.10219611-1/200x200",
     },
     {

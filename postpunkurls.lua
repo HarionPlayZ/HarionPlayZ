@@ -359,4 +359,19 @@ PostPunk_urls = {
         url_music = "https://s2.deliciouspeaches.com/get/music/20200625/agirre_-_noch_70036982.mp3",
         url_img = "https://avatars.yandex.net/get-music-content/1781407/c1c2137a.a.13180026-1/200x200",
     },
+    {
+        name = "телеэкран - Тысяча дешевых зажигалок",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20190726/Telejekran_-_Tysyacha_deshjovykh_zazhigalok_65685798.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/108289/fac03aa0.a.7116544-1/200x200",
+    },
+    {
+        name = "пачкасигарет - Герой",
+        url_music = "https://data.gybka.com/listen/186856152/VXdVWTR3b1hyRStIalJHSmNQOEVPV0JINE1sa2YvMm1NeTFyWEgzQ1Myb2Mzak0yaExEancxUUwrSmluNUNtaURiVmdFaW9nNE82dGVHb1B2RVNYU2hSOW9nZXpQQmtja1hmSnNuMDZkYzBjeFgrbmFFalpEd0t2dENiQzFlWjA/pachkasigaret_-_Geroj_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5375761/9b7d3b4f.a.17370371-1/200x200",
+    },
+    {
+        name = "ssshhhiiittt! - Самый грустный",
+        url_music = "https://data.gybka.com/listen/174644076/VXdVWTR3b1hyRStIalJHSmNQOEVPV0JINE1sa2YvMm1NeTFyWEgzQ1MycHhPYmVYclUwQWVEODRCMjZTWERKUVJ1bnJwdnhVSDJzcExTVkZGbVpCelI1UVp5aVFiVWRUbTBWV3AydHJ1aUp5c1FUWXJFOUgrRm9TWmlEeHNlVFY/Ssshhhiiittt_-_Samyj_grustnyj_Ssshhhiiittt_ovaya_Tema_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5485872/636d7f33.a.19675349-1/200x200",
+    },
 }

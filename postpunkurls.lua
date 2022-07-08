@@ -424,4 +424,154 @@ PostPunk_urls = {
         url_music = "https://data.gybka.com/listen/146339621/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSXUxS1NERWdhZ1c2R3VJWVFxLzNSZE5vdjg4ZUdPT3lIWU5tTWJVbHZwUFFkM1hHR2I0SldGRDFPZXFjTUN0cTZQMVNtK1lxUU1yVEVhRG5ualI2WVQ/molchat_doma_-_toska_(Gybka.com).mp3",
         url_img = "https://avatars.yandex.net/get-music-content/1880735/73137046.a.9553251-1/200x200",
     },
+    {
+        name = "Молчат Дома - Судно",
+        url_music = "https://data.gybka.com/listen/145044048/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXS1oybjRYM2xtUk55UjNqQWR0Z0EvYlhIUDBXNW1yOHpnOWRiZW9aV2Z1d0NUTVYrUzhVR2xDNWQwMXcrYTNhSzYvUy82T011d3VBamlQRFJ4bFlsOUM/molchat_doma_-_sudno_Boris_Ryzhij_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/1880735/73137046.a.9553251-1/200x200",
+    },
+    {
+        name = "Молчат Дома - Клетка",
+        url_music = "https://data.gybka.com/listen/148767662/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXS1lsVEVMK3VtVElqa0ppeHJ5d2JHUm02R1VpWGlmZ2pGWkl5VXg4SXQ3dnRpeEZBUHo2VHhxdFpnZzc1cG9QaTRmRHJJRVZuVFRrcnc0L1ppWkZ0SE0/molchat_doma_-_kletka_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/1880735/73137046.a.9553251-1/200x200",
+    },
+    {
+        name = "Плейлист Венкова - Так не хочется революции",
+        url_music = "https://data.gybka.com/listen/190014401/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSkkxeDd1RmpyYS9FNTdoQjNPNXlEYk5nM0hUK1Fac1hKZyt1ZVRGZnV3L3dGSkxlVGRwcUtKTzVtU1hoc1gwSVhNRjYrdkl0bzRpQisxNlRhU2w5WGk/Plejlist_Venkova_-_Tak_ne_hochetsya_revolyucii_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6255016/77459e2f.a.22791141-1/200x200",
+    },
+    {
+        name = "Плейлист Венкова - Грустно и хочется выпить",
+        url_music = "https://data.gybka.com/listen/186426302/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSUNWaWhoa3ZsYkVYQXVOTVRwRGVsOVVHclhwY0ZrMWZuMlVSWXllcGdvaXhXZ3h5T2I1UW50bG9MTUhhNlovcGNjWGlPbDhyS3NnUmxHZkFhYnFBUkE/Plejlist_Venkova_-_Grustno_i_hochetsya_vypit_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/4406810/8c29afa0.a.13900564-1/200x200",
+    },
+    {
+        name = "Плейлист Венкова - Поговорить с тобой",
+        url_music = "https://data.gybka.com/listen/182178876/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSlF1T3Z1c3hZSndQMFFHcU83NC9GUEdyL1EwZzQxRkhIdHRINklMcm40cEtPaG9YSnY3ZFFoaEVTMUpZNTY2U3pSbWJxSnFNc3p0SGt2TWgyRWkvblA/Plejlist_Venkova_-_Pogovorit_s_toboj_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/4406810/8c29afa0.a.13900564-1/200x200",
+    },
+    {
+        name = "Ploho - Новостройки",
+        url_music = "https://data.gybka.com/listen/53245998/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXTElaSHdiUm1uU2V5d2FLSUxGRXl5eGVNVUpHWGRLQVh3bVUyQVMxV3ZtU1E5RVFhYWFhRUhiZ2lVMnNjUFlmZEhkZFJOcXQwUXBjakpJT2xqdnNsVEk/Ploho_-_Novostrojki_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/114728/ce2244b7.a.4963498-1/200x200",
+    },
+    {
+        name = "Ploho - Город устал",
+        url_music = "https://ds2.cdn4.deliciouspeaches.com/get/music/20190117/Ploho_-_Gorod_ustal_61468375.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/139444/c324facf.a.4963500-1/200x200",
+    },
+    {
+        name = "Ploho - Пустота",
+        url_music = "https://cdn2.deliciouspeaches.com/get/music/20190405/Ploho_-_Pustota_63284521.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/103235/13216a91.a.7203533-1/200x200",
+    },
+    {
+        name = "Ploho - Закладка",
+        url_music = "https://ds2.cdn17.deliciouspeaches.com/get/music/20190405/Ploho_-_Zakladka_63284511.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/103235/13216a91.a.7203533-1/200x200",
+    },
+    {
+        name = "Ploho - Горький опыт",
+        url_music = "https://s3.deliciouspeaches.com/get/music/20190405/Ploho_-_Gorkijj_opyt_63284514.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/103235/13216a91.a.7203533-1/200x200",
+    },
+    {
+        name = "Ploho - Оставайся со мной",
+        url_music = "https://s3.deliciouspeaches.com/get/music/20210215/Ploho_-_Ostavajjsya_so_mnojj_72662949.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/4406810/52755c68.a.13568276-1/200x200",
+    },
+    {
+        name = "Ploho - Камни",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20210215/Ploho_-_Kamni_72662948.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/4406810/52755c68.a.13568276-1/200x200",
+    },
+    {
+        name = "Черниговская Хата - Ставлю на зеро",
+        url_music = "https://cdn18.deliciouspeaches.com/get/music/20190502/CHernigovskaya_khata_-_Stavlyu_na_zero_63896691.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6214856/3e6b8a03.a.22529350-1/200x200",
+    },
+    {
+        name = "Черниговская Хата - Владимирский централ",
+        url_music = "https://s3.deliciouspeaches.com/get/music/20200506/CHernikovskaya_KHata_-_Vladimirskijj_Central_69440063.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6214856/3e6b8a03.a.22529350-1/200x200",
+    },
+    {
+        name = "Черниговская Хата - Белая ночь",
+        url_music = "https://s3.deliciouspeaches.com/get/music/20190227/CHernigovskaya_khata_-_Belaya_noch_62420198.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6214856/3e6b8a03.a.22529350-1/200x200",
+    },
+    {
+        name = "Черниговская Хата - Спектакль окончен",
+        url_music = "https://cdn9.deliciouspeaches.com/get/music/20201104/CHernigovskaya_khata_-_Spektakl_okonchen_71496625.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6214856/3e6b8a03.a.22529350-1/200x200",
+    },
+    {
+        name = "Черниговская Хата - Ты не верь слезам",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20190227/CHernigovskaya_khata_-_Ty_ne_ver_slezam_62420202.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6214856/3e6b8a03.a.22529350-1/200x200",
+    },
+    {
+        name = "Черниговская Хата - Ночное рандеву",
+        url_music = "https://s3.deliciouspeaches.com/get/music/20200222/CHernigovskaya_khata_-_Nochnoe_randevu_68495862.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6214856/3e6b8a03.a.22529350-1/200x200",
+    },
+    {
+        name = "Черниговская Хата - Нажми на кнопку",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20191024/CHernigovskaya_khata_-_Nazhmi_Na_Knopku_67067640.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6214856/3e6b8a03.a.22529350-1/200x200",
+    },
+    {
+        name = "КИНО - Группа крови",
+        url_music = "https://ds.cdn3.deliciouspeaches.com/get/music/20170830/Kino_-_Gruppa_krovi_47829944.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - Пачка сигарет",
+        url_music = "https://cdn7.deliciouspeaches.com/get/music/20180425/Kino_-_Pachka_sigaret_55527249.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - Кукушка",
+        url_music = "https://ds2.cdn17.deliciouspeaches.com/get/music/20180425/Kino_-_Kukushka_55527243.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - Звезда по имени солнце",
+        url_music = "https://ds2.cdn2.deliciouspeaches.com/get/music/20170830/Kino_-_Zvezda_po_imeni_Solnce_47828842.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/143117/bc8002a7.a.10030-4/200x200",
+    },
+    {
+        name = "КИНО - Закрой за мною дверь, я ухожу",
+        url_music = "https://ds2.cdn9.deliciouspeaches.com/get/music/20170830/Kino_-_Zakrojj_za_mnojj_dver_ya_ukhozhu_47829945.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - Хочу перемен",
+        url_music = "https://cdn18.deliciouspeaches.com/get/music/20180425/Kino_-_KHochu_peremen_55527255.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - Спокойная ночь",
+        url_music = "https://ds2.cdn10.deliciouspeaches.com/get/music/20170916/Kino_-_Spokojjnaya_noch_48614890.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - Мама, мы все тяжело больны",
+        url_music = "https://cdn10.deliciouspeaches.com/get/music/20170916/Kino_-_Mama_my_vse_tyazhelo_bolny_48614885.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - Восьмиклассница",
+        url_music = "https://ds2.cdn8.deliciouspeaches.com/get/music/20180425/Kino_-_Vosmiklassnica_55527294.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - Последний герой",
+        url_music = "https://ds2.cdn18.deliciouspeaches.com/get/music/20170916/Kino_-_Poslednijj_gerojj_48614877.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
+    {
+        name = "КИНО - В наших глазах",
+        url_music = "https://ds2.cdn18.deliciouspeaches.com/get/music/20210322/KINO_-_V_nashikh_glazakh_72866965.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+    },
 }

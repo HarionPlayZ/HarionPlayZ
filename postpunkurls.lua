@@ -522,12 +522,12 @@ PostPunk_urls = {
     {
         name = "КИНО - Группа крови",
         url_music = "https://ds.cdn3.deliciouspeaches.com/get/music/20170830/Kino_-_Gruppa_krovi_47829944.mp3",
-        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+        url_img = "https://avatars.yandex.net/get-music-content/139444/3fde3856.a.10100-4/200x200",
     },
     {
         name = "КИНО - Пачка сигарет",
         url_music = "https://cdn7.deliciouspeaches.com/get/music/20180425/Kino_-_Pachka_sigaret_55527249.mp3",
-        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+        url_img = "https://avatars.yandex.net/get-music-content/143117/bc8002a7.a.10030-4/200x200",
     },
     {
         name = "КИНО - Кукушка",
@@ -542,7 +542,7 @@ PostPunk_urls = {
     {
         name = "КИНО - Закрой за мною дверь, я ухожу",
         url_music = "https://ds2.cdn9.deliciouspeaches.com/get/music/20170830/Kino_-_Zakrojj_za_mnojj_dver_ya_ukhozhu_47829945.mp3",
-        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+        url_img = "https://avatars.yandex.net/get-music-content/139444/3fde3856.a.10100-4/200x200",
     },
     {
         name = "КИНО - Хочу перемен",
@@ -552,12 +552,12 @@ PostPunk_urls = {
     {
         name = "КИНО - Спокойная ночь",
         url_music = "https://ds2.cdn10.deliciouspeaches.com/get/music/20170916/Kino_-_Spokojjnaya_noch_48614890.mp3",
-        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+        url_img = "https://avatars.yandex.net/get-music-content/139444/3fde3856.a.10100-4/200x200",
     },
     {
         name = "КИНО - Мама, мы все тяжело больны",
         url_music = "https://cdn10.deliciouspeaches.com/get/music/20170916/Kino_-_Mama_my_vse_tyazhelo_bolny_48614885.mp3",
-        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+        url_img = "https://avatars.yandex.net/get-music-content/139444/3fde3856.a.10100-4/200x200",
     },
     {
         name = "КИНО - Восьмиклассница",
@@ -572,6 +572,6 @@ PostPunk_urls = {
     {
         name = "КИНО - В наших глазах",
         url_music = "https://ds2.cdn18.deliciouspeaches.com/get/music/20210322/KINO_-_V_nashikh_glazakh_72866965.mp3",
-        url_img = "https://avatars.yandex.net/get-music-content/95061/4f3808a0.a.5307396-3/200x200",
+        url_img = "https://avatars.yandex.net/get-music-content/139444/3fde3856.a.10100-4/200x200",
     },
 }

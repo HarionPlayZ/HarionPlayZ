@@ -374,4 +374,54 @@ PostPunk_urls = {
         url_music = "https://data.gybka.com/listen/174644076/VXdVWTR3b1hyRStIalJHSmNQOEVPV0JINE1sa2YvMm1NeTFyWEgzQ1MycHhPYmVYclUwQWVEODRCMjZTWERKUVJ1bnJwdnhVSDJzcExTVkZGbVpCelI1UVp5aVFiVWRUbTBWV3AydHJ1aUp5c1FUWXJFOUgrRm9TWmlEeHNlVFY/Ssshhhiiittt_-_Samyj_grustnyj_Ssshhhiiittt_ovaya_Tema_(Gybka.com).mp3",
         url_img = "https://avatars.yandex.net/get-music-content/5485872/636d7f33.a.19675349-1/200x200",
     },
+    {
+        name = "ssshhhiiittt! - Корабль",
+        url_music = "https://data.gybka.com/listen/114413829/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXS1BwaThxemI3ODQ0TWcrQVVha09pNTdIUmVxUUpZWEUyVVFxc3NoYXJrRTR4QWJUZVpUem9WSnlidUdMaUhXcEpISFRkVUJWV0xXRVJVWktvNEgxTGE/Ssshhhiiittt_-_03_korabl_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/113160/66bbfd79.a.4867528-1/200x200",
+    },
+    {
+        name = "ssshhhiiittt! - 19",
+        url_music = "https://data.gybka.com/listen/111334593/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXTE1GZzEzcnJBTzVBUXNnVVE3SHJPRHQvZStlWHhMMXZvWTNMR1h2azR3SGZhRDdJUGJ5cTFndXJEYkRHY0FhMUJOUEpoaXNmWDE1U1duNXJ4SENHemE/ssshhhiiittt_-_19_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/142001/8e1b20c1.a.4867536-1/200x200",
+    },
+    {
+        name = "Море Ясности - Корабль в бутылке",
+        url_music = "https://data.gybka.com/listen/188544643/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXTC9GdXgyTmdseUlJMWJmb250SlQybWFsN3h0VS9EN2xSOGdVNjRjM0JnMWFTdnJUcnI0a0w1VEMzQXYwMnoycnErbVNHR2p2WlphdTA0VlZUeVdIYnE/More_YAsnosti_-_More_YAsnosti_-_Korabl_v_butylke_2019_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2114230/6f3eefdd.a.9935879-1/200x200",
+    },
+    {
+        name = "Море Ясности - В стране моих чудовищ",
+        url_music = "https://data.gybka.com/listen/175712568/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXTFM5VGtCcU9jaWJTOEdtMmFiMUtmNnM2NXY5dTc0YnRPQUVlL0tvWkR3d0NjTlJIY3dwdEpSakk1WXEyc3cyWDVXMnlBbkY4anVGbmlYTnNtaFY2amg/More_YAsnosti_-_V_strane_moih_chudovicsh_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2114230/6f3eefdd.a.9935879-1/200x200",
+    },
+    {
+        name = "культодиночества - Тени",
+        url_music = "https://data.gybka.com/listen/180005956/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXS1lEOTB0MUtmS01ZR3hLU0o5a3JpcGVvSnhscmNCWFJQNUoveW1UOGZkN3dRQ0phNFJRQVZybjdaVnFvTTBSY2hZRVdjSzV5N0Y5YnZ2b21hUUlHc0g/kultodinochestva_-_Teni_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2806365/b36efb5f.a.11089971-1/200x200",
+    },
+    {
+        name = "культодиночества - Снег",
+        url_music = "https://data.gybka.com/listen/180258400/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSTk4WWN0V3RNcFRSMUFMZ2E2MnZpVFZxUHNyTVN4Si9HM3lUK0dJV1ZJQ1dvYXNBOEgyS3hydC9CSWZRN1B1elB3Sks0RUFCVUFYNmRidXhKazZJRTc/kultodinochestva_-_Sneg_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2806365/b36efb5f.a.11089971-1/200x200",
+    },
+    {
+        name = "культодиночества - Фазы",
+        url_music = "https://data.gybka.com/listen/188675739/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSWRaNGkydEgwbVd6RnJHb3lSYm1XcjZrM1ZYcC9CRUZkL0FsV3FPaFlPZm1BLzY5VzJtZkZIYjRlN2lFL3FSdzl5MW5aWEw1SExwOE92Z2xtVXM3bXA/kultodinochestva_-_Fazy_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5309210/c9ac93cd.a.16671337-1/200x200",
+    },
+    {
+        name = "Молчат Дома - Люди надоели",
+        url_music = "https://data.gybka.com/listen/163182128/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSjRQQlJUNXpEU3VEdnlTaDhrMWxCd0g5YVdvb0VIa1NzejhMNzdkcUwwQ3hXenpBRU9qdmZOdUpLaFdEUWFLQnkwNGFNVnhnUjJrRHBPWmh5dElpeWg/Molchat_Doma_-_Lyudi_nadoeli_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2110367/76b172ba.a.9553105-1/200x200",
+    },
+    {
+        name = "Молчат Дома - Дома молчат",
+        url_music = "https://data.gybka.com/listen/176231086/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSW9SWnFPL2R0QjhmRkxwbEt3NktMaVZjUFFnREtML2FiQUY3RXloL2t1bCtraVp3NnpyT2JhRmxhY3BUQnBIWDE4RkphOTlBRkc0ZWcrRzErbXN6UHo/molchat_doma_-_doma_molchat_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2110367/76b172ba.a.9553105-1/200x200",
+    },
+    {
+        name = "Молчат Дома - Тоска",
+        url_music = "https://data.gybka.com/listen/146339621/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSXUxS1NERWdhZ1c2R3VJWVFxLzNSZE5vdjg4ZUdPT3lIWU5tTWJVbHZwUFFkM1hHR2I0SldGRDFPZXFjTUN0cTZQMVNtK1lxUU1yVEVhRG5ualI2WVQ/molchat_doma_-_toska_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/1880735/73137046.a.9553251-1/200x200",
+    },
 }

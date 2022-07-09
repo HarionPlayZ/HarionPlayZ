@@ -6,7 +6,7 @@ PostPunk_urls = {
     },
     {
         name = "Дима Бамберг - дегенеративное искусство",
-        url_music = "https://cdndl.zaycev.net/track/23375187/A5kdvBcGPwpJeAgDvYD2wAz5V4HxDE417kvriKfEDPPvMrVQoeddAKScuZreQ7CvRvCnqUGutghTHKjKDKbgdMg8fnhuB3ubJKR8rut4oDLPsD3dBVmtF5i9QpEiQaToMRqZNzaujBGFbUkCD7t5yFXuMBTSTdja8V7RrGMDVw2pf63LmogutTETFc4wZfD1AiWrwqbUr4TndnaBru5RfPTuw7a444yjVJpDciiKqAbdGntT6NfZ5FL8wHnBimAMpyeVkH2ALkjEFgh4R4BpiVUXJYnPuEd4m57Ly4AQke3P6rgLgK1H7mSo9pyvMmFEemBwk5zXQzsmtxKLqijBgwHA9EoDhC",
+        url_music = "https://cdn2.deliciouspeaches.com/get/music/20190124/Dima_Bamberg_-_degenerativnoe_iskusstvo_61637289.mp3",
         url_img = "https://avatars.yandex.net/get-music-content/192707/03c4b2e0.a.6684589-1/150x150",
     },
     {

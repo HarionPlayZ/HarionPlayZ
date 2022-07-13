@@ -574,4 +574,54 @@ PostPunk_urls = {
         url_music = "https://ds2.cdn18.deliciouspeaches.com/get/music/20210322/KINO_-_V_nashikh_glazakh_72866965.mp3",
         url_img = "https://avatars.yandex.net/get-music-content/139444/3fde3856.a.10100-4/200x200",
     },
+    {
+        name = "Электрофорез, superkomfort - Фотограф",
+        url_music = "https://cdn1.deliciouspeaches.com/get/music/20220617/JElektroforez_superkomfort_-_otograf_74500896.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/6021799/bba678d5.a.22514233-1/200x200",
+    },
+    {
+        name = "Аут - Кино",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20200606/AUT_-_Kino_69830428.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2442093/72cbf2af.a.10825234-1/200x200",
+    },
+    {
+        name = "Ploho - Сердце получает нож",
+        url_music = "https://cdn2.deliciouspeaches.com/get/music/20190924/Ploho_-_Serdce_poluchaet_nozh_66711455.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/3318009/d3b38fd0.a.13226586-1/200x200",
+    },
+    {
+        name = "Ploho - Молодость",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20190924/Ploho_-_Molodost_66711460.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/97284/5049168c.a.4620315-1/200x200",
+    },
+    {
+        name = "Ночная Лента, Mike Captain - Бережок",
+        url_music = "https://cdn.discordapp.com/attachments/905459744209260597/996700981670727730/25667.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5314916/e423af4a.a.20108638-1/200x200",
+    },
+    {
+        name = "Йорш - Андерграунд",
+        url_music = "https://ds2.cdn4.deliciouspeaches.com/get/music/20190111/JJorsh_-_Andergraund_61379703.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/175191/ae5c64cd.a.6357686-1/200x200",
+    },
+    {
+        name = "Predznanie - Меня никто не ждёт",
+        url_music = "https://cdn5.deliciouspeaches.com/get/music/20220101/Predznanie_-_Menya_nikto_ne_zhdjot_73585677.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2806365/1a5d0c3f.a.12821801-1/200x200",
+    },
+    {
+        name = "bishkek - Крыша",
+        url_music = "https://ds.cdn2.deliciouspeaches.com/get/music/20220430/Bishkek_-_Krysha_74157152.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5417945/2a0ce284.a.19799829-1/200x200",
+    },
+    {
+        name = "bishkek - твой страх",
+        url_music = "https://cdn.discordapp.com/attachments/905459744209260597/996700982794788964/30487.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5417945/2a0ce284.a.19799829-1/200x200",
+    },
+    {
+        name = "bishkek - безусловная любовь",
+        url_music = "https://cdn.discordapp.com/attachments/905459744209260597/996700982320836689/19159.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5417945/2a0ce284.a.19799829-1/200x200",
+    },
 }

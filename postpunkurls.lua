@@ -370,6 +370,21 @@ PostPunk_urls = {
         url_img = "https://avatars.yandex.net/get-music-content/5375761/9b7d3b4f.a.17370371-1/200x200",
     },
     {
+        name = "пачкасигарет - Из Пластика",
+        url_music = "https://data.gybka.com/listen/187636003/K0hKMzVwTk4yQ1pFUVJZS0FDMHE4Zm5TZTJtOFRCeEpVV1pLTHZnWkJZblozQ2FGU1NZMWVtUEs4Z3B3WU5Lb1lWWFZFaXY5ek9HQWd2OFZZeHd1M0pwaWVadmt0clFtV1Z5b3hMd2YzSVhwRmVESGI2ZWV0aFZQYld2dnVzSlE/pachkasigaret_-_Iz_Plastika_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5234847/beb073c9.a.16292538-1/200x200",
+    },
+    {
+        name = "пачкасигарет - Бьюсь С Драконом",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20211115/PAchKaSigaret_-_Byus_S_Drakonom_73323824.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5375761/9b7d3b4f.a.17370371-1/200x200",
+    },
+    {
+        name = "пачкасигарет - Не С Тобой",
+        url_music = "https://data.gybka.com/listen/194290513/K0hKMzVwTk4yQ1pFUVJZS0FDMHE4Zm5TZTJtOFRCeEpVV1pLTHZnWkJZbHlRTmRRVUh5N09idXdOb0xHT3lDbUdUTlVQaXk2OG1lOVh1dXd2NDhkOWpDZlpyRk1JM0JlQTBacVNydGNyNGtFdFRkMHF5MGt4NlN1ZDhCQmhhdlE/pachkasigaret_-_Ne_S_Toboj_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5375761/9b7d3b4f.a.17370371-1/200x200",
+    },
+    {
         name = "ssshhhiiittt! - Самый грустный",
         url_music = "https://data.gybka.com/listen/174644076/VXdVWTR3b1hyRStIalJHSmNQOEVPV0JINE1sa2YvMm1NeTFyWEgzQ1MycHhPYmVYclUwQWVEODRCMjZTWERKUVJ1bnJwdnhVSDJzcExTVkZGbVpCelI1UVp5aVFiVWRUbTBWV3AydHJ1aUp5c1FUWXJFOUgrRm9TWmlEeHNlVFY/Ssshhhiiittt_-_Samyj_grustnyj_Ssshhhiiittt_ovaya_Tema_(Gybka.com).mp3",
         url_img = "https://avatars.yandex.net/get-music-content/5485872/636d7f33.a.19675349-1/200x200",
@@ -623,5 +638,15 @@ PostPunk_urls = {
         name = "bishkek - безусловная любовь",
         url_music = "https://cdn.discordapp.com/attachments/905459744209260597/996700982320836689/19159.mp3",
         url_img = "https://avatars.yandex.net/get-music-content/5417945/2a0ce284.a.19799829-1/200x200",
+    },
+    {
+        name = "Дурной Вкус - Пластинки",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20200607/Durnojj_Vkus_-_Plastinki_69838174.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/114728/629b4f09.a.5872052-1/200x200",
+    },
+    {
+        name = "Дурной Вкус - Звук и темнота",
+        url_music = "https://cdn3.deliciouspeaches.com/get/music/20220314/durnojj_vkus_-_Zvuk_i_temnota_73931985.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2810397/ad466f04.a.7643657-2/200x200",
     },
 }

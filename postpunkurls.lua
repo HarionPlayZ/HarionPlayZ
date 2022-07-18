@@ -450,6 +450,21 @@ PostPunk_urls = {
         url_img = "https://avatars.yandex.net/get-music-content/1880735/73137046.a.9553251-1/200x200",
     },
     {
+        name = "Молчат Дома - Крыши",
+        url_music = "https://cdn2.deliciouspeaches.com/get/music/20200207/Molchat_doma_-_Kryshi_68293151.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2110367/76b172ba.a.9553105-1/200x200",
+    },
+    {
+        name = "Молчат Дома - Волны",
+        url_music = "https://s3.deliciouspeaches.com/get/music/20200219/Molchat_doma_-_Volny_68459235.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/1880735/73137046.a.9553251-1/200x200",
+    },
+    {
+        name = "Молчат Дома - Танцевать",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20200405/Molchat_doma_-_tancevat_69075848.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/1880735/73137046.a.9553251-1/200x200",
+    },
+    {
         name = "Плейлист Венкова - Так не хочется революции",
         url_music = "https://data.gybka.com/listen/190014401/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSkkxeDd1RmpyYS9FNTdoQjNPNXlEYk5nM0hUK1Fac1hKZyt1ZVRGZnV3L3dGSkxlVGRwcUtKTzVtU1hoc1gwSVhNRjYrdkl0bzRpQisxNlRhU2w5WGk/Plejlist_Venkova_-_Tak_ne_hochetsya_revolyucii_(Gybka.com).mp3",
         url_img = "https://avatars.yandex.net/get-music-content/6255016/77459e2f.a.22791141-1/200x200",
@@ -598,6 +613,16 @@ PostPunk_urls = {
         name = "Аут - Кино",
         url_music = "https://s2.deliciouspeaches.com/get/music/20200606/AUT_-_Kino_69830428.mp3",
         url_img = "https://avatars.yandex.net/get-music-content/2442093/72cbf2af.a.10825234-1/200x200",
+    },
+    {
+        name = "Аут - Дешёвая жизнь",
+        url_music = "https://data.gybka.com/listen/188319217/K0hKMzVwTk4yQ1pFUVJZS0FDMHE4Zm5TZTJtOFRCeEpVV1pLTHZnWkJZblJwMTNzcWxxK05TelR0dXZYRVhuNUR4Z3lyQ1E2RkFKVmwrZVppSmdXVlpscW9lVjRJQ1Rvc3o1c0w2YzVjV0Y3WlNqSXU2SW91Z2dyOVZkbXRPTGc/Aut_-_Deshyovaya_zhizn_(Gybka.com).mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2397565/647393b7.a.11538560-1/200x200",
+    },
+    {
+        name = "Аут - Монохром",
+        url_music = "https://s3.deliciouspeaches.com/get/music/20211214/AUT_-_Monokhrom_73484840.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5234929/cf1da519.a.19229282-1/200x200",
     },
     {
         name = "Ploho - Сердце получает нож",

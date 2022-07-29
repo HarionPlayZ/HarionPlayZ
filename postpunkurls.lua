@@ -385,6 +385,26 @@ PostPunk_urls = {
         url_img = "https://avatars.yandex.net/get-music-content/5375761/9b7d3b4f.a.17370371-1/200x200",
     },
     {
+        name = "пачкасигарет - Атланты",
+        url_music = "https://ru.hitmotop.com/get/music/20211108/PAchKaSigaret_-_Atlanty_73291237.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5375761/9b7d3b4f.a.17370371-1/200x200",
+    },
+    {
+        name = "пачкасигарет - Демон",
+        url_music = "https://ru.hitmotop.com/get/music/20200225/PAchKaSigaret_-_Demon_68535016.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2390047/7735c065.a.9178200-1/200x200",
+    },
+    {
+        name = "пачкасигарет - Сердце",
+        url_music = "https://ru.hitmotop.com/get/music/20200225/PAchKaSigaret_-_Serdce_68535017.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2390047/7735c065.a.9178200-1/200x200",
+    },
+    {
+        name = "пачкасигарет - Керосином",
+        url_music = "https://ru.hitmotop.com/get/music/20211113/PAchKaSigaret_-_Kerosinom_73318082.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5375761/9b7d3b4f.a.17370371-1/200x200",
+    },
+    {
         name = "ssshhhiiittt! - Самый грустный",
         url_music = "https://data.gybka.com/listen/174644076/VXdVWTR3b1hyRStIalJHSmNQOEVPV0JINE1sa2YvMm1NeTFyWEgzQ1MycHhPYmVYclUwQWVEODRCMjZTWERKUVJ1bnJwdnhVSDJzcExTVkZGbVpCelI1UVp5aVFiVWRUbTBWV3AydHJ1aUp5c1FUWXJFOUgrRm9TWmlEeHNlVFY/Ssshhhiiittt_-_Samyj_grustnyj_Ssshhhiiittt_ovaya_Tema_(Gybka.com).mp3",
         url_img = "https://avatars.yandex.net/get-music-content/5485872/636d7f33.a.19675349-1/200x200",
@@ -423,6 +443,21 @@ PostPunk_urls = {
         name = "культодиночества - Фазы",
         url_music = "https://data.gybka.com/listen/188675739/RnBnMXQ0Vk9aTE5Ob0trN2lUZ2NQVHFGNDlOWUJkMnY3K1VWald2YWNXSWRaNGkydEgwbVd6RnJHb3lSYm1XcjZrM1ZYcC9CRUZkL0FsV3FPaFlPZm1BLzY5VzJtZkZIYjRlN2lFL3FSdzl5MW5aWEw1SExwOE92Z2xtVXM3bXA/kultodinochestva_-_Fazy_(Gybka.com).mp3",
         url_img = "https://avatars.yandex.net/get-music-content/5309210/c9ac93cd.a.16671337-1/200x200",
+    },
+    {
+        name = "культодиночества - Этой весной",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20200701/kultodinochestva_-_JEtojj_vesnojj_70109372.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2806365/b36efb5f.a.11089971-1/200x200",
+    },
+    {
+        name = "культодиночества - фотографии",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20211118/kultodinochestva_-_fotografii_73342166.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/3316841/9d5e429a.a.13466470-1/200x200",
+    },
+    {
+        name = "культодиночества - Никому",
+        url_music = "https://s3.deliciouspeaches.com/get/music/20190718/kultodinochestva_-_Nikomu_65520322.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/143117/a6a810e6.a.8063039-1/200x200",
     },
     {
         name = "Молчат Дома - Люди надоели",
@@ -610,6 +645,16 @@ PostPunk_urls = {
         url_img = "https://avatars.yandex.net/get-music-content/6021799/bba678d5.a.22514233-1/200x200",
     },
     {
+        name = "Электрофорез - Quo vadus?",
+        url_music = "https://cdn6.deliciouspeaches.com/get/music/20171004/JElektroforez_-_Quo_vadis_49128823.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/119639/e725f35c.a.4791826-1/200x200",
+    },
+    {
+        name = "Электрофорез, Молчат Дома - Мертв внутри",
+        url_music = "https://s2.deliciouspeaches.com/get/music/20210215/JElektroforez_Molchat_Doma_-_Mjortv_vnutri_72662972.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/3316841/bef5fcc0.a.13408029-1/200x200",
+    },
+    {
         name = "Аут - Кино",
         url_music = "https://s2.deliciouspeaches.com/get/music/20200606/AUT_-_Kino_69830428.mp3",
         url_img = "https://avatars.yandex.net/get-music-content/2442093/72cbf2af.a.10825234-1/200x200",
@@ -673,5 +718,35 @@ PostPunk_urls = {
         name = "Дурной Вкус - Звук и темнота",
         url_music = "https://cdn3.deliciouspeaches.com/get/music/20220314/durnojj_vkus_-_Zvuk_i_temnota_73931985.mp3",
         url_img = "https://avatars.yandex.net/get-music-content/2810397/ad466f04.a.7643657-2/200x200",
+    },
+    {
+        name = "Райтер - Там, где всегда нас ждут",
+        url_music = "https://cdn11.deliciouspeaches.com/get/music/20201212/Rajjter_-_Tam_gde_vsegda_nas_zhdut_71934699.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/2373979/184c05a2.a.9365432-1/200x200",
+    },
+    {
+        name = "Райтер - Меж моих рёбер",
+        url_music = "https://ru.hitmotop.com/get/music/20220306/Rajjter_-_Mezh_moikh_rjober_73897036.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5413909/7016dbca.a.18556286-1/200x200",
+    },
+    {
+        name = "Увула - Ты и твоя тень",
+        url_music = "https://ru.hitmotop.com/get/music/20190117/Uvula_-_Ty_i_tvoya_ten_61468277.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5496390/4045cea0.a.19792547-1/200x200",
+    },
+    {
+        name = "Увула - Не для меня",
+        url_music = "https://ru.hitmotop.com/get/music/20180504/Uvula_-_Ne_dlya_menya_55745723.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5413909/0190f485.a.19890186-1/200x200",
+    },
+    {
+        name = "Убей меня, Эйс! - Милая трагедия",
+        url_music = "https://ru.hitmotop.com/get/music/20211112/Ubejj_menya_JEjjs_-_Milaya_tragediya_73307327.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5099136/a6ed0d54.a.18883394-1/200x200",
+    },
+    {
+        name = "Видеокассета твоих родителей - Не получится",
+        url_music = "https://cdn4.deliciouspeaches.com/get/music/20220603/Videokasseta_tvoikh_roditelejj_-_Ne_poluchitsya_74376062.mp3",
+        url_img = "https://avatars.yandex.net/get-music-content/5559490/37ec88ba.a.18828297-1/200x200",
     },
 }

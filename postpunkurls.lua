@@ -5,11 +5,6 @@ PostPunk_urls = {
         url_img = "https://avatars.yandex.net/get-music-content/2433207/2bc59776.a.10846954-1/100x100",
     },
     {
-        name = "Дима Бамберг - дегенеративное искусство",
-        url_music = "https://cdn2.deliciouspeaches.com/get/music/20190124/Dima_Bamberg_-_degenerativnoe_iskusstvo_61637289.mp3",
-        url_img = "https://avatars.yandex.net/get-music-content/192707/03c4b2e0.a.6684589-1/150x150",
-    },
-    {
         name = "Чернозём И Звёзды - Гипербореи",
         url_music = "https://s2.deliciouspeaches.com/get/music/20220112/CHernozjom_i_Zvjozdy_-_Giperborei_73640320.mp3",
         url_img = "https://avatars.yandex.net/get-music-content/4796762/5cb20b78.a.15619195-1/200x200",

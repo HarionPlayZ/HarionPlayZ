@@ -1,0 +1,3 @@
+idtable = {
+    [""] = true,
+}
